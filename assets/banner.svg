@@ -8,6 +8,6 @@
 
     <rect width="1200" height="250" fill="url(#gradient)" />
     <circle cx="1050" cy="70" r="120" fill="white" opacity="0.08"/>
-    <circle cx="150" cy="230" r="135" fill="#99aebb" opacity="0.10"/>
+    <circle cx="150" cy="250" r="140" fill="#99aebb" opacity="0.10"/>
     <!-- <text x="50%" y="50%" dominant-baseline="middle" text-anchor -->
 </svg>
