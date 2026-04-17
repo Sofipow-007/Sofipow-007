@@ -1,6 +1,6 @@
 ![Mi Banner](./assets/banner.svg)
 
-# Sobre mi
+## Sobre mi
 
 Soy estudiante de computación de la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales.
 
