@@ -1,26 +1,47 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
-    <defs>
-        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" style="stop-color: #688ca2;stop-opacity:1" />
-            <stop offset="100%" style="stop-color: #2f729c;stop-opacity:1" />
-        </linearGradient>
-    </defs>
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
 
-    <rect width="1200" height="250" fill="url(#gradient)" />
-    <circle cx="1050" cy="70" r="120" fill="#7171d5" opacity="0.08"/>
-    <circle cx="150" cy="250" r="140" fill="#99aebb" opacity="0.10"/>
+    <clipPath id="waveClip">
+      <rect x="0" y="165" width="1200" height="85"/>
+    </clipPath>
+  </defs>
 
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="36" font-family="Verdana, sans-serif">
-        Sofia Power
-    </text>
+  <rect width="1200" height="250" fill="url(#gradient)" />
 
-    <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="18" font-family="Verdana, sans-serif">
-        Estudiante de Computación e Informática
-    </text>
+  <circle cx="950" cy="70" r="120" fill="#94A3B8" opacity="0.10"/>
+  <circle cx="150" cy="250" r="140" fill="#E2E8F0" opacity="0.05"/>
 
-    <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" fill="white" font-size="14" font-family="Verdana, sans-serif">
-        Desarrolladora Full Stack - Programación Orientada a Objetos
-    </text>
+  <text x="50%" y="110" text-anchor="middle" fill="#F8FAFC" font-size="42" font-family="Verdana, sans-serif" font-weight="bold">
+    Sofia Power
+  </text>
 
+  <text x="50%" y="160" text-anchor="middle" fill="#E2E8F0" font-size="18" font-family="Verdana, sans-serif">
+    Estudiante de Computación e Informática
+  </text>
 
+  <text x="50%" y="200" text-anchor="middle" fill="#CBD5E1" font-size="14" font-family="Verdana, sans-serif">
+    Desarrolladora Full Stack - Programación Orientada a Objetos
+  </text>
+
+  <g clip-path="url(#waveClip)">
+    <g opacity="0.10">
+      <g>
+        <path d="M0 195 Q150 170 300 195 T600 195 T900 195 T1200 195 V250 H0 Z" fill="#E2E8F0"/>
+        <path d="M1200 195 Q1350 170 1500 195 T1800 195 T2100 195 T2400 195 V250 H1200 Z" fill="#E2E8F0"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="12s" repeatCount="indefinite"/>
+      </g>
+    </g>
+
+    <g opacity="0.14">
+      <g transform="translate(0 10)">
+        <path d="M0 200 Q200 180 400 200 T800 200 T1200 200 V250 H0 Z" fill="#94A3B8"/>
+        <path d="M1200 200 Q1400 180 1600 200 T2000 200 T2400 200 V250 H1200 Z" fill="#94A3B8"/>
+        <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="16s" repeatCount="indefinite"/>
+      </g>
+    </g>
+  </g>
 </svg>
