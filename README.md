@@ -1,4 +1,6 @@
-![Mi Banner](./assets/banner.svg)
+<!-- ![Mi Banner](./assets/banner.svg) -->
+
+[Banner](./assets/banner.svg)
 
 ## Sobre mi
 
