@@ -9,11 +9,11 @@
       <stop offset="100%" stop-color="#0d1f38"/>
     </linearGradient>
 
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#c4b5fd"/>
       <stop offset="50%"  stop-color="#818cf8"/>
       <stop offset="100%" stop-color="#67e8f9"/>
-    </linearGradient>
+    </linearGradient> -->
 
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%"   stop-color="#a78bfa" stop-opacity="0"/>
@@ -140,7 +140,7 @@
       font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
       font-size="46"
       font-weight="700"
-      fill="url(#textGrad)"
+      fill="#ffff"
       class="name-text"
       letter-spacing="1"
     >Sofia Power</text>
