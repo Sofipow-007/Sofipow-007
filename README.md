@@ -19,6 +19,9 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
             <img src="https://skillicons.dev/icons?i=html,css,js,react">
         </td>
         <td align="center">
+            <img src= "https://skillicons.dev/icons?i=nodejs,python,java,sequelize,expressjs">
+        </td>
+        <td align="center">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb">
         </td>
     </tr>
