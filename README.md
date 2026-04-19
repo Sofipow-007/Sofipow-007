@@ -2,7 +2,22 @@
 
 ## Sobre mi
 
-Soy estudiante de computación de último año de la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales.
+Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales.
+
+Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, por lo que me gustaría seguir innovando, crear nuevos proyectos y ayudar con mis habilidades.
+
+## Tecnologías
+
+<table align="center">
+    <tr>
+        <th>FrontEnd</th>
+        <th>BackEnd</th>
+        <th>Lenguajes</th>
+        <th>Base de Datos</th>
+    </tr>
+
+
+</table>
 
 <!--
 **Sofipow-007/Sofipow-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
