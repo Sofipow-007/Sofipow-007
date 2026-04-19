@@ -54,6 +54,8 @@ Se van a utilizar las tecnologías de automatizaciones y base de datos no relaci
 
 Este proyecto está en etapa de desarrollo.
 
+- - - -
+
 ### [NextRead](https://github.com/AlejoGuerraa/nextRead)
 
 Aplicación desarrollada en Full Stack que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Esto significa que:
@@ -65,6 +67,8 @@ Aplicación desarrollada en Full Stack que se encarga de que cada usuario pueda 
 - Tienen la habilidad de interactuar con otros usuarios.
 
 Estas funcionalidades están acompañadas por una interfaz de usuario agradable para el lector.
+
+- - - -
 
 ### [Escaner-de-red](https://github.com/Sofipow-007/Escaner-de-Red)
 
