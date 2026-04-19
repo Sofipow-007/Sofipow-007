@@ -42,19 +42,13 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
 
 ### En Proceso:
 
-- [FitPocket]("https://github.com/Sofipow-007/FitPocket")
-
-    Una aplicación que se va a encargar de elaborar planes de entrenamiento y dietas con ayuda de la IA, para que cada usuario los pueda cumplir en un límite de dias.
+- [FitPocket](https://github.com/Sofipow-007/FitPocket): Una aplicación que se va a encargar de elaborar planes de entrenamiento y dietas con ayuda de la IA, para que cada usuario los pueda cumplir en un límite de dias.
 
 ### Finalizados
 
-- [NextRead]("https://github.com/AlejoGuerraa/nextRead")
+- [NextRead](https://github.com/AlejoGuerraa/nextRead): Aplicación que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Además, cada uno puede calificar los libros e interactuar con otros usuarios.
 
-    Aplicación que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Además, cada uno puede calificar los libros e interactuar con otros usuarios.
-
-- [Escaner-de-red]("https://github.com/Sofipow-007/Escaner-de-Red")
-
-    Herramienta que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
+- [Escaner-de-red](https://github.com/Sofipow-007/Escaner-de-Red): Herramienta que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
 
 ## Estadísticas
 
