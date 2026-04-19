@@ -12,11 +12,16 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
     <tr>
         <th>FrontEnd</th>
         <th>BackEnd</th>
-        <th>Lenguajes</th>
         <th>Base de Datos</th>
     </tr>
-
-
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=html,css,js,react">
+        </td>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=nodejs,python,java,sequelize,expressjs">
+        </td>
+    </tr>
 </table>
 
 <!--
