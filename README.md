@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales.
+Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones en mis proyectos.
 
 Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, por lo que me gustaría seguir innovando, crear nuevos proyectos y ayudar con mis habilidades.
 
@@ -19,9 +19,24 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
             <img src="https://skillicons.dev/icons?i=html,css,js,react">
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=nodejs,python,java,sequelize,expressjs">
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb">
         </td>
     </tr>
+    <br>
+    <tr>
+        <th>Herramientas</th>
+        <!-- <th>BackEnd</th>
+        <th>Base de Datos</th> -->
+    </tr>
+    <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse">
+        </td>
+        <!-- <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb">
+        </td> -->
+    </tr>
+
 </table>
 
 <!--
