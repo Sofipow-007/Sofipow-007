@@ -12,7 +12,6 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
     <tr>
         <th>FrontEnd</th>
         <th>BackEnd</th>
-        <th>Base de Datos</th>
     </tr>
     <tr>
         <td align="center">
@@ -21,17 +20,18 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
         <td align="center">
             <img src= "https://skillicons.dev/icons?i=nodejs,python,java,sequelize,expressjs">
         </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb">
-        </td>
     </tr>
     <br>
     <tr>
+        <th>Base de Datos</th>
         <th>Herramientas</th>
         <!-- <th>BackEnd</th>
         <th>Base de Datos</th> -->
     </tr>
     <tr>
+        <td align="center">
+            <img src="https://skillicons.dev/icons?i=mysql,mongodb">
+        </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse">
         </td>
