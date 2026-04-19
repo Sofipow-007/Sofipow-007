@@ -6,6 +6,8 @@ Soy estudiante de computación de último año en la ET N° 36. Actualmente esto
 
 Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, por lo que me gustaría seguir innovando, crear nuevos proyectos y ayudar con mis habilidades.
 
+- - -
+
 ## Tecnologías
 
 <table align="center">
@@ -50,6 +52,8 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
 
 - [Escaner-de-red](https://github.com/Sofipow-007/Escaner-de-Red): Herramienta que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
 
+- - -
+
 ## Estadísticas
 
 <p align="center">
@@ -57,6 +61,8 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
 </p>
+
+- - -
 
 ## Contacto
 
