@@ -2,7 +2,7 @@
 
 ## Sobre mi
 
-Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones con N8N y manejo el uso de la IA en mis proyectos.
+Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones con N8N y manejo el uso de la API en mis proyectos.
 
 Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, por lo que me gustaría seguir innovando, crear nuevos proyectos y ayudar con mis habilidades.
 
