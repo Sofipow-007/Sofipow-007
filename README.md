@@ -45,33 +45,26 @@ Una aplicación que se va a encargar de elaborar planes de entrenamiento y dieta
 
 ### Finalizados
 
-- [NextRead]("https://github.com/AlejoGuerraa/nextRead")
-Aplicación que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Además, cada uno puede calificar los libros e interactuar con otros usuarios.
+- [NextRead]("https://github.com/AlejoGuerraa/nextRead") | Aplicación que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Además, cada uno puede calificar los libros e interactuar con otros usuarios.
 
-- [Escaner-de-red]("https://github.com/Sofipow-007/Escaner-de-Red")
-Herramienta que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
+- [Escaner-de-red]("https://github.com/Sofipow-007/Escaner-de-Red") | Herramienta que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
 
 ## Estadísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Sofipow-007)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sofipow-007)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
+</p>
 
 ## Contacto
 
-### Gmail: power.sofiaet36@gmail.com
-### LinkedIn: www.linkedin.com/in/sofia-power-73b3483b7
-<!--
-**Sofipow-007/Sofipow-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:power.sofiaet36@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sofia-power-73b3483b7">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
