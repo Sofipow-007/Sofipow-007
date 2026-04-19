@@ -33,7 +33,7 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
             <img src="https://skillicons.dev/icons?i=mysql,mongodb">
         </td>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse">
+            <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino">
         </td>
         <!-- <td align="center">
             <img src="https://skillicons.dev/icons?i=mysql,mongodb">
