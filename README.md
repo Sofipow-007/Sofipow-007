@@ -42,36 +42,44 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
 
 ## Proyectos Destacados
 
-### En Proceso:
+### [FitPocket](https://github.com/Sofipow-007/FitPocket)
 
-- [FitPocket](https://github.com/Sofipow-007/FitPocket): Una aplicación que se va a encargar de elaborar planes de entrenamiento y dietas con ayuda de la IA, para que cada usuario los pueda cumplir en un límite de dias.
+Una aplicación desarrollada en Full Stack que se va a encargar de:
 
-### Finalizados
+- Elaborar planes de entrenamiento y dietas respecto a la información que ingrese el usuario.
 
-- [NextRead](https://github.com/AlejoGuerraa/nextRead): Aplicación que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Además, cada uno puede calificar los libros e interactuar con otros usuarios.
+- Tener un checkin diario para que el usuario cumpla con su rutina en el día elegido.
 
-- [Escaner-de-red](https://github.com/Sofipow-007/Escaner-de-Red): Herramienta que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
+Se van a utilizar las tecnologías de automatizaciones y base de datos no relacional, para poder cumplir con este objetivo
+
+Este proyecto está en etapa de desarrollo.
+
+### [NextRead](https://github.com/AlejoGuerraa/nextRead)
+
+Aplicación desarrollada en Full Stack que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Esto significa que:
+
+- Se calificarán libros por estrellas
+
+- Los usuarios pueden guardar los libros en listas específicas o personalizadas con ellos.
+
+- Tienen la habilidad de interactuar con otros usuarios.
+
+Estas funcionalidades están acompañadas por una interfaz de usuario agradable para el lector.
+
+### [Escaner-de-red](https://github.com/Sofipow-007/Escaner-de-Red)
+
+Herramienta desarrollada en Java que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
+
+Está acompañada de una interfaz simple y completa que autoriza al usuario a cumplir su objetivo de red.
+
+Esta aplicación viene junto a un manual de usuario, documentación de desarrollo, y con un .jar ejecutable.
 
 - - -
 
-## Estadísticas
+## Estadísticas Generales en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
-</p>
-
-- - -
-
-## Contacto
-
-<p align="center">
-  <a href="mailto:power.sofiaet36@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/sofia-power-73b3483b7">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
 </p>
