@@ -18,13 +18,13 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
     </tr>
     <tr>
         <td align="center">
-            <img src="https://skillicons.dev/icons?i=js,java,python,cplusplus"
+            <img src="https://skillicons.dev/icons?i=js,java,python,cpp"
         </td>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=html,css,react">
         </td>
         <td align="center">
-            <img src= "https://skillicons.dev/icons?i=node.js,express.js,sequelize"
+            <img src= "https://skillicons.dev/icons?i=nodejs,expressjs,sequelize"
         </td>
     </tr>
     <br>
