@@ -53,7 +53,7 @@ Me metí en la programación porque me gusta entender cómo funcionan las cosas 
       <br/><br/>
       App Full Stack que genera planes de entrenamiento y dietas personalizados con IA, con check-in diario para seguimiento de rutinas.
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb" height="24"/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js" height="24"/>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AlejoGuerraa/nextRead">NextRead</a></h3>
@@ -61,7 +61,7 @@ Me metí en la programación porque me gusta entender cómo funcionan las cosas 
       <br/><br/>
       Plataforma Full Stack de lectura: calificación por estrellas, listas personalizadas e interacción entre usuarios.
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" height="24"/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js" height="24"/>
     </td>
   </tr>
   <tr>
