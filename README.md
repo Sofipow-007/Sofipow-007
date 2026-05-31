@@ -2,9 +2,9 @@
 
 ## Sobre mi
 
-Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones con N8N y manejo el uso de la API en mis proyectos.
+Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones e integración de IA en proyectos reales.
 
-Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, por lo que me gustaría seguir innovando, crear nuevos proyectos y ayudar con mis habilidades.
+Me metí en la programación porque me gusta entender cómo funcionan las cosas por dentro y poder construirlas. Me interesa seguir creciendo, tomar proyectos desafiantes y aportar donde pueda ser útil.
 
 - - -
 
@@ -69,7 +69,7 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
       <h3><a href="https://github.com/Sofipow-007/PIXIE">PIXIE</a></h3>
       <img src="https://img.shields.io/badge/estado-en%20desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
-      Sistema embebido construido con microcontrolador ESP32 y pantalla OLED, que se encarga de centralizar información y controles que normalmente están dispersos en un celular o en distintas apps. Se encarga de mostrar el clima y la fecha en tiempo real, tiene timer para metodologías de estudio, ajustes, etc.
+      Sistema embebido con ESP32 y pantalla OLED que centraliza en un solo lugar información y controles que normalmente están dispersos entre el celular y distintas apps: clima y fecha en tiempo real, timer para metodologías de estudio, ajustes y más.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=c,cpp,react,arduino,js" height="24"/>
     </td>
@@ -89,6 +89,7 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
 ## Estadísticas Generales en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
 </p>
