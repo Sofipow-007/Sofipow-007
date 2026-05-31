@@ -11,76 +11,73 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
 ## Tecnologías
 
 <table align="center">
-    <tr>
-        <th>Lenguajes</th>
-        <th>FrontEnd</th>
-        <th>BackEnd</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=js,java,python,cpp"
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=html,css,react">
-        </td>
-        <td align="center">
-            <img src= "https://skillicons.dev/icons?i=nodejs,expressjs,sequelize"
-        </td>
-    </tr>
-    <br>
-    <tr>
-        <th>Base de Datos</th>
-        <th>Herramientas</th>
-    </tr>
-    <tr>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=mysql,mongodb">
-        </td>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino">
-        </td>
-    </tr>
+  <tr>
+    <th>Lenguajes</th>
+    <th>FrontEnd</th>
+    <th>BackEnd</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,java,python,cpp"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,react"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize"/>
+    </td>
+  </tr>
+  <tr>
+    <th>Base de Datos</th>
+    <th colspan="2">Herramientas</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+    </td>
+    <td align="center" colspan="2">
+      <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino"/>
+    </td>
+  </tr>
 </table>
 
 - - - 
 
 ## Proyectos Destacados
 
-### [FitPocket](https://github.com/Sofipow-007/FitPocket)
-
-Una aplicación desarrollada en Full Stack que se va a encargar de:
-
-- Elaborar planes de entrenamiento y dietas respecto a la información que ingrese el usuario.
-
-- Tener un checkin diario para que el usuario cumpla con su rutina en el día elegido.
-
-Se van a utilizar las tecnologías de automatizaciones y base de datos no relacional, para poder cumplir con este objetivo
-
-Este proyecto está en etapa de desarrollo.
-
-- - - -
-
-### [NextRead](https://github.com/AlejoGuerraa/nextRead)
-
-Aplicación desarrollada en Full Stack que se encarga de que cada usuario pueda tener una mejor experiencia a la hora de leer. Esto significa que:
-
-- Se calificarán libros por estrellas
-
-- Los usuarios pueden guardar los libros en listas específicas o personalizadas con ellos.
-
-- Tienen la habilidad de interactuar con otros usuarios.
-
-Estas funcionalidades están acompañadas por una interfaz de usuario agradable para el lector.
-
-- - - -
-
-### [Escaner-de-red](https://github.com/Sofipow-007/Escaner-de-Red)
-
-Herramienta desarrollada en Java que sirve para realizar operaciones de red, como escanear direcciones IP o DNS, e incluso mostrar estadísticas de NetStat.
-
-Está acompañada de una interfaz simple y completa que autoriza al usuario a cumplir su objetivo de red.
-
-Esta aplicación viene junto a un manual de usuario, documentación de desarrollo, y con un .jar ejecutable.
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sofipow-007/FitPocket">FitPocket</a></h3>
+      <img src="https://img.shields.io/badge/estado-en%20desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
+      <br/><br/>
+      App Full Stack que genera planes de entrenamiento y dietas personalizados con IA, con check-in diario para seguimiento de rutinas.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb" height="24"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AlejoGuerraa/nextRead">NextRead</a></h3>
+      <img src="https://img.shields.io/badge/estado-finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
+      <br/><br/>
+      Plataforma Full Stack de lectura: calificación por estrellas, listas personalizadas e interacción entre usuarios.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,mysql" height="24"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Sofipow-007/Escaner-de-Red">Escaner de Red</a></h3>
+      <img src="https://img.shields.io/badge/estado-finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
+      <br/><br/>
+      Herramienta en Java para operaciones de red: escaneo de IPs, DNS y estadísticas NetStat. Incluye manual de usuario y <code>.jar</code> ejecutable.
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,eclipse" height="24"/>
+    </td>
+    <td width="50%" valign="top">
+      <!-- espacio para tu próximo proyecto -->
+    </td>
+  </tr>
+</table>
 
 - - -
 
@@ -88,6 +85,5 @@ Esta aplicación viene junto a un manual de usuario, documentación de desarroll
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
 </p>
