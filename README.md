@@ -55,8 +55,6 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nodejs,mongodb" height="24"/>
     </td>
-  </tr>
-    <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/AlejoGuerraa/nextRead">NextRead</a></h3>
       <img src="https://img.shields.io/badge/estado-finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
@@ -67,7 +65,7 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
     </td>
   </tr>
   <tr>
-  <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/Sofipow-007/PIXIE">PIXIE</a></h3>
       <img src="https://img.shields.io/badge/estado-en%20desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
@@ -76,19 +74,12 @@ Tengo interés en seguir aprendiendo todas las capacidades como desarrolladora, 
       <img src="https://skillicons.dev/icons?i=c,cpp,react,arduino,js" height="24"/>
     </td>
     <td width="50%" valign="top">
-      <!-- espacio para tu próximo proyecto -->
-    </td></tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/Sofipow-007/NetView">NetView</a></h3>
       <img src="https://img.shields.io/badge/estado-finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
       Herramienta en Java para operaciones de red: escaneo de IPs, DNS y estadísticas NetStat. Incluye manual de usuario y <code>.jar</code> ejecutable.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=java,eclipse" height="24"/>
-    </td>
-    <td width="50%" valign="top">
-      <!-- espacio para tu próximo proyecto -->
     </td>
   </tr>
 </table>
