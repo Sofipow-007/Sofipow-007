@@ -1,6 +1,6 @@
 ![Mi Banner](./assets/banner.svg)
 
-## Sobre mi
+## ↪ Sobre mi
 
 Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones e integración de IA en proyectos reales.
 
@@ -10,7 +10,7 @@ Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007
 
 - - -
 
-## Tecnologías
+## ⁎ Tecnologías
 
 <table align="center">
   <tr>
@@ -45,7 +45,7 @@ Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007
 
 - - - 
 
-## Proyectos Destacados
+## ⁓ Proyectos Destacados
 
 <table align="center">
   <tr>
@@ -88,7 +88,7 @@ Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007
 
 - - -
 
-## Estadísticas Generales en GitHub
+## ⟫ Estadísticas Generales en GitHub
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
