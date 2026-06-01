@@ -6,6 +6,8 @@ Soy estudiante de computación de último año en la ET N° 36. Actualmente esto
 
 Me metí en la programación porque me gusta entender cómo funcionan las cosas por dentro y poder construirlas. Me interesa seguir creciendo, tomar proyectos desafiantes y aportar donde pueda ser útil.
 
+Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007.github.io/">Portfolio</a>
+
 - - -
 
 ## Tecnologías
