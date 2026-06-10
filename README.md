@@ -2,11 +2,9 @@
 
 ## ↪ Sobre mi
 
-Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones e integración de IA en proyectos reales.
+- Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones e integración de IA en proyectos reales.
 
-Me metí en la programación porque me gusta entender cómo funcionan las cosas por dentro y poder construirlas. Me interesa seguir creciendo, tomar proyectos desafiantes y aportar donde pueda ser útil.
-
-Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007.github.io/">Portfolio</a>
+- Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007.github.io/">Portfolio</a>
 
 - - -
 
