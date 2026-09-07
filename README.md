@@ -43,7 +43,7 @@ Podés conocer más sobre mí y mis proyectos en mi [Portfolio](https://sofipow-
       <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino"/>
     </td>
     <td align="center" width="33%" valign="top">
-      <h4>Aprendiendo</h4>
+      <h4>Aprendiendo Actualmente</h4>
       <img src="https://skillicons.dev/icons?i=docker,postgres"/>
     </td>
   </tr>
