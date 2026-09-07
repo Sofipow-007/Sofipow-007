@@ -18,45 +18,33 @@ Podés conocer más sobre mí y mis proyectos en mi [Portfolio](https://sofipow-
 
 ## ⁎ Tecnologías
 
-<table align="center">
+<table align="center" border="1">
   <tr>
-    <td align="center" width="33%">
-      <fieldset>
-        <legend align="center"><b>Lenguajes</b></legend>
-        <img src="https://skillicons.dev/icons?i=js,java,python,cpp"/>
-      </fieldset>
+    <td align="center" width="33%" valign="top">
+      <h4>Lenguajes</h4>
+      <img src="https://skillicons.dev/icons?i=js,java,python,cpp"/>
     </td>
-    <td align="center" width="33%">
-      <fieldset>
-        <legend align="center"><b>FrontEnd</b></legend>
-        <img src="https://skillicons.dev/icons?i=html,css,react"/>
-      </fieldset>
+    <td align="center" width="33%" valign="top">
+      <h4>FrontEnd</h4>
+      <img src="https://skillicons.dev/icons?i=html,css,react"/>
     </td>
-    <td align="center" width="33%">
-      <fieldset>
-        <legend align="center"><b>BackEnd</b></legend>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize"/>
-      </fieldset>
+    <td align="center" width="33%" valign="top">
+      <h4>BackEnd</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize"/>
     </td>
   </tr>
   <tr>
-    <td align="center" width="33%">
-      <fieldset>
-        <legend align="center"><b>Bases de Datos</b></legend>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-      </fieldset>
+    <td align="center" width="33%" valign="top">
+      <h4>Bases de Datos</h4>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
     </td>
-    <td align="center" width="33%">
-      <fieldset>
-        <legend align="center"><b>Herramientas</b></legend>
-        <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino"/>
-      </fieldset>
+    <td align="center" width="33%" valign="top">
+      <h4>Herramientas</h4>
+      <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino"/>
     </td>
-    <td align="center" width="33%">
-      <fieldset>
-        <legend align="center"><b>Aprendiendo</b></legend>
-        <img src="https://skillicons.dev/icons?i=docker,postgres"/>
-      </fieldset>
+    <td align="center" width="33%" valign="top">
+      <h4>Aprendiendo</h4>
+      <img src="https://skillicons.dev/icons?i=docker,postgres"/>
     </td>
   </tr>
 </table>
