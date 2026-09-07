@@ -1,95 +1,113 @@
-![Mi Banner](./assets/banner.svg)
+<div align="center">
+  <img src="./assets/banner.svg" alt="Banner" width="100%"/>
+  <br/><br/>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sofia-power-inf/)
+  [![Mail](https://img.shields.io/badge/Gmail-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:power.sofiaet36@gmail.com)
+</div>
 
-## ↪ Sobre mi
+<br/>
 
-- Soy estudiante de computación de último año en la ET N° 36. Actualmente estoy orientada en trabajos en BackEnd, con experiencias en FrontEnd, Programación Orientada a Objetos, y desarrollando y administrando bases de datos relacionales o no relacionales. También me encargo de realizar automatizaciones e integración de IA en proyectos reales.
+## ↪ Sobre mí
 
-- Podés conocer más sobre mí y mis proyectos en mi <a href="https://sofipow-007.github.io/">Portfolio</a>
+Estudiante de último año de Computación en la **ET N° 36**. Me especializo en el desarrollo **BackEnd**, con experiencia en FrontEnd, Programación Orientada a Objetos, y administración de bases de datos relacionales y no relacionales. Me apasiona la automatización y la integración de soluciones de IA en proyectos reales.
 
-- - -
+Podés conocer más sobre mí y mis proyectos en mi [Portfolio](https://sofipow-007.github.io/).
+
+---
 
 ## ⁎ Tecnologías
 
 <table align="center">
   <tr>
-    <th>Lenguajes</th>
-    <th>FrontEnd</th>
-    <th>BackEnd</th>
+    <td align="center" width="33%">
+      <fieldset>
+        <legend align="center"><b>Lenguajes</b></legend>
+        <img src="https://skillicons.dev/icons?i=js,java,python,cpp"/>
+      </fieldset>
+    </td>
+    <td align="center" width="33%">
+      <fieldset>
+        <legend align="center"><b>FrontEnd</b></legend>
+        <img src="https://skillicons.dev/icons?i=html,css,react"/>
+      </fieldset>
+    </td>
+    <td align="center" width="33%">
+      <fieldset>
+        <legend align="center"><b>BackEnd</b></legend>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize"/>
+      </fieldset>
+    </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,java,python,cpp"/>
+    <td align="center" width="33%">
+      <fieldset>
+        <legend align="center"><b>Bases de Datos</b></legend>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+      </fieldset>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,react"/>
+    <td align="center" width="33%">
+      <fieldset>
+        <legend align="center"><b>Herramientas</b></legend>
+        <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino"/>
+      </fieldset>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,sequelize"/>
-    </td>
-  </tr>
-  <tr>
-    <th>Base de Datos</th>
-    <th colspan="2">Herramientas</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-    </td>
-    <td align="center" colspan="2">
-      <img src="https://skillicons.dev/icons?i=vscode,postman,git,eclipse,arduino"/>
+    <td align="center" width="33%">
+      <fieldset>
+        <legend align="center"><b>Aprendiendo</b></legend>
+        <img src="https://skillicons.dev/icons?i=docker,postgres"/>
+      </fieldset>
     </td>
   </tr>
 </table>
 
-- - - 
+---
 
 ## ⁓ Proyectos Destacados
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sofipow-007/FitPocket">FitPocket</a></h3>
-      <img src="https://img.shields.io/badge/estado-en%20desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
+      <h3><a href="https://github.com/Sofipow-007/FitPocket">FitPocket</a> 🤖</h3>
+      <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
-      App Full Stack que genera planes de entrenamiento y dietas personalizados con IA, con check-in diario para seguimiento de rutinas.
+      App Full Stack que genera planes de entrenamiento y dietas personalizados con IA, incluyendo seguimiento diario de rutinas.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,js" height="24"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/AlejoGuerraa/nextRead">NextRead</a></h3>
-      <img src="https://img.shields.io/badge/estado-finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
+      <h3><a href="https://github.com/AlejoGuerraa/nextRead">NextRead</a> 📚</h3>
+      <img src="https://img.shields.io/badge/Estado-Finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
-      Plataforma Full Stack de lectura: calificación por estrellas, listas personalizadas e interacción entre usuarios.
+      Plataforma Full Stack de lectura con sistemas de calificación, listas personalizadas e interacción social entre usuarios.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,js" height="24"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sofipow-007/PIXIE">PIXIE</a></h3>
-      <img src="https://img.shields.io/badge/estado-en%20desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
+      <h3><a href="https://github.com/Sofipow-007/PIXIE">PIXIE</a> ⚡</h3>
+      <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-a78bfa?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
-      Sistema embebido con ESP32 y pantalla OLED que centraliza en un solo lugar información y controles que normalmente están dispersos entre el celular y distintas apps: clima y fecha en tiempo real, timer para metodologías de estudio, ajustes y más.
+      Sistema embebido (ESP32 + OLED) que centraliza en tiempo real clima, hora y temporizadores para metodologías de estudio.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=c,cpp,react,arduino,js" height="24"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sofipow-007/NetView">NetView</a></h3>
-      <img src="https://img.shields.io/badge/estado-finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
+      <h3><a href="https://github.com/Sofipow-007/NetView">NetView</a> 🌐</h3>
+      <img src="https://img.shields.io/badge/Estado-Finalizado-67e8f9?style=flat-square&labelColor=0a0a1a"/>
       <br/><br/>
-      Herramienta en Java para operaciones de red: escaneo de IPs, DNS y estadísticas NetStat. Incluye manual de usuario y <code>.jar</code> ejecutable.
+      Herramienta en Java para operaciones de red (escaneo de IPs, consulta DNS y métricas NetStat). Incluye ejecutable <code>.jar</code>.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=java,eclipse" height="24"/>
     </td>
   </tr>
 </table>
 
-- - -
+---
 
-## ⟫ Estadísticas Generales en GitHub
+## ⟫ Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sofipow-007&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&icon_color=67e8f9&text_color=cbd5e1" height="170"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sofipow-007&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=a78bfa&text_color=cbd5e1" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sofipow-007&theme=dark&background=0A0A1A&stroke=A78BFA&alarm=67E8F9&fire=67E8F9&ring=A78BFA&labels=CBD5E1&hide_border=true" height="150" alt="Streak Stats"/>
 </p>
